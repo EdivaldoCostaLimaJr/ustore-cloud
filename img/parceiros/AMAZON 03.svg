@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="251" height="29" viewBox="0 0 251 29">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-1" y="2" width="251" height="29" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_rolagem_20" data-name="Grupo de rolagem 20" transform="translate(1 -2)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <text id="AMAZON_EC2" data-name="AMAZON EC2" transform="translate(14 4)" fill="#827f7f" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="26">AMAZON EC2</tspan></text>
+    <text id="AMAZON_EC2-2" data-name="AMAZON EC2" transform="translate(-1 49)" fill="#827f7f" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="26">AMAZON EC2</tspan></text>
+  </g>
+</svg>
